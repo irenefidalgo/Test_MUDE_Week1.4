@@ -3,5 +3,4 @@ To follow workflow in textbook
 
 irene
 
-test - week 1.5
-Irene_change_2
+Edited README file in main (after editing the README file on new branch) for week 1.5 demo
